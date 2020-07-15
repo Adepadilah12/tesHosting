@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+putchar('U');
+putchar('M');
+putchar('T');
+getch();
+}
